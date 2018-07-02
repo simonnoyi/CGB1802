@@ -43,6 +43,7 @@ Debug模式：f11 断点运行
 
 Mybatis2 pm
 testgit
+testgit
 
 
 
